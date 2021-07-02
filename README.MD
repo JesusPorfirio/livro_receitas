@@ -7,5 +7,7 @@
 #### All recipes of this :book: book :book:
 
 1. Strogonoff de frango 🐔
-2. Bolo :cake:
-3. Pave
+2. Bolo 🎂
+3. Pave 🍰
+4. Arroz 🍚
+5. Feijão 👨‍🍳
