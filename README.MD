@@ -11,4 +11,3 @@
 3. Pave 🍰
 4. Arroz 🍚
 5. Feijão 🆒
-6. fricasse
