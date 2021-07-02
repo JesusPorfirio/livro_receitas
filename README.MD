@@ -6,6 +6,6 @@
 #### Note: the lang of recipes is in pt-br; :trollface:
 #### All recipes of this :book: book :book:
 
-1. Strogonoff de frango :chicken:
-2. Bolo de chocolate :birthcake:
-3. Pudim
+1. Strogonoff de frango 🐔
+2. Bolo de chocolate 🍰
+3. Pudim 🥧
