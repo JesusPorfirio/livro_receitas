@@ -10,4 +10,4 @@
 2. Bolo 🎂
 3. Pave 🍰
 4. Arroz 🍚
-5. Feijão 👨‍🍳
+5. Feijão
