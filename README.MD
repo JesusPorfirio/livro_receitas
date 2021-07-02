@@ -7,6 +7,3 @@
 #### All recipes of this :book: book :book:
 
 1. Strogonoff de frango 🐔
-2. Bolo de chocolate 🍰
-3. Pudim 🥧
-4. Pave 
