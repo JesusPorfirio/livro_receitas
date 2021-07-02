@@ -12,3 +12,4 @@
 4. Arroz 🍚
 5. Feijão 🆒
 6. Fricasse
+7. Ovo frito 🍳
