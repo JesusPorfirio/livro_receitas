@@ -7,3 +7,5 @@
 #### All recipes of this :book: book :book:
 
 1. Strogonoff de frango :chicken:
+2. Bolo de chocolate :birthcake:
+3. Pudim
